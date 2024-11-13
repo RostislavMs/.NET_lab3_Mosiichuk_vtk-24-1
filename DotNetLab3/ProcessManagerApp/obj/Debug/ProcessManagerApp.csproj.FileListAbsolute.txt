@@ -1,0 +1,10 @@
+C:\ВТк-24-1\C#\DotNetLab3\ProcessManagerApp\bin\Debug\ProcessManagerApp.exe.config
+C:\ВТк-24-1\C#\DotNetLab3\ProcessManagerApp\bin\Debug\ProcessManagerApp.exe
+C:\ВТк-24-1\C#\DotNetLab3\ProcessManagerApp\bin\Debug\ProcessManagerApp.pdb
+C:\ВТк-24-1\C#\DotNetLab3\ProcessManagerApp\obj\Debug\ProcessManagerApp.csproj.AssemblyReference.cache
+C:\ВТк-24-1\C#\DotNetLab3\ProcessManagerApp\obj\Debug\ProcessManagerApp.Form1.resources
+C:\ВТк-24-1\C#\DotNetLab3\ProcessManagerApp\obj\Debug\ProcessManagerApp.Properties.Resources.resources
+C:\ВТк-24-1\C#\DotNetLab3\ProcessManagerApp\obj\Debug\ProcessManagerApp.csproj.GenerateResource.cache
+C:\ВТк-24-1\C#\DotNetLab3\ProcessManagerApp\obj\Debug\ProcessManagerApp.csproj.CoreCompileInputs.cache
+C:\ВТк-24-1\C#\DotNetLab3\ProcessManagerApp\obj\Debug\ProcessManagerApp.exe
+C:\ВТк-24-1\C#\DotNetLab3\ProcessManagerApp\obj\Debug\ProcessManagerApp.pdb

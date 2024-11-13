@@ -1,0 +1,10 @@
+C:\ВТк-24-1\C#\DotNetLab3\FileEncryptionApp\bin\Debug\FileEncryptionApp.exe.config
+C:\ВТк-24-1\C#\DotNetLab3\FileEncryptionApp\bin\Debug\FileEncryptionApp.exe
+C:\ВТк-24-1\C#\DotNetLab3\FileEncryptionApp\bin\Debug\FileEncryptionApp.pdb
+C:\ВТк-24-1\C#\DotNetLab3\FileEncryptionApp\obj\Debug\FileEncryptionApp.csproj.AssemblyReference.cache
+C:\ВТк-24-1\C#\DotNetLab3\FileEncryptionApp\obj\Debug\FileEncryptionApp.Form1.resources
+C:\ВТк-24-1\C#\DotNetLab3\FileEncryptionApp\obj\Debug\FileEncryptionApp.Properties.Resources.resources
+C:\ВТк-24-1\C#\DotNetLab3\FileEncryptionApp\obj\Debug\FileEncryptionApp.csproj.GenerateResource.cache
+C:\ВТк-24-1\C#\DotNetLab3\FileEncryptionApp\obj\Debug\FileEncryptionApp.csproj.CoreCompileInputs.cache
+C:\ВТк-24-1\C#\DotNetLab3\FileEncryptionApp\obj\Debug\FileEncryptionApp.exe
+C:\ВТк-24-1\C#\DotNetLab3\FileEncryptionApp\obj\Debug\FileEncryptionApp.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileEncryptionApp", "FileEncryptionApp\FileEncryptionApp.csproj", "{FABADD1C-EC3F-4E7D-90C4-0D93D8D0417B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessManagerApp", "ProcessManagerApp\ProcessManagerApp.csproj", "{359E3D04-36F7-4F6D-BE94-D25039E19187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABADD1C-EC3F-4E7D-90C4-0D93D8D0417B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABADD1C-EC3F-4E7D-90C4-0D93D8D0417B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABADD1C-EC3F-4E7D-90C4-0D93D8D0417B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABADD1C-EC3F-4E7D-90C4-0D93D8D0417B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359E3D04-36F7-4F6D-BE94-D25039E19187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359E3D04-36F7-4F6D-BE94-D25039E19187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359E3D04-36F7-4F6D-BE94-D25039E19187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359E3D04-36F7-4F6D-BE94-D25039E19187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4764545F-4004-4D37-805A-20907EB3F985}
+	EndGlobalSection
+EndGlobal
